@@ -16,9 +16,3 @@
 ### To Do, Notes, Calendar, Reviewer
 
 ![image](https://github.com/juriemaeac/ACADEMIA/assets/59803167/fcc45b13-c158-4551-b611-8dd3ef4434f0)
-
-### Profile Screen
-
-![image](https://github.com/juriemaeac/ACADEMIA/assets/59803167/55903e82-90a2-4659-90f4-508bb38638e2)
-
-Castronuevo  |  Chua   |  Morales  |  Parungao
